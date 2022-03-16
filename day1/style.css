@@ -1,0 +1,21 @@
+.header{
+    background-color: brown;
+    color: black;
+}
+.navbar{
+    display: flex;
+    min-height: 50px;
+    line-height: 50px;
+    top: 0;
+
+}
+.navbar li{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.footer{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    bottom: 0;
+}

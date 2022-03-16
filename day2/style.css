@@ -1,0 +1,85 @@
+.search-box{
+    position: absolute;
+    
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #2f3640;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+}
+.location-image{
+    min-width: 300px;
+    max-width: 300px;
+
+    min-height: 300px;
+    min-width: 300px;
+    margin: 10%;
+   position: relative;
+}
+.location-name{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    color: blueviolet;
+}
+.textcenter-center{
+    font-family: fantasy;
+    font-weight: 500;
+    text-align: center;
+
+}
+.boxing{
+    display: block;
+    width: 100%;
+    padding-top: 1.5rem ;
+    padding-bottom: 1.5rem;
+    height: 100%;
+
+}
+.box{
+    display: block;
+    width: 100%;
+    padding-top: 1.5rem ;
+    padding-bottom: 1.5rem;
+    height: 100%;
+}
+img{
+   width: 100%;
+   border-radius: 5px;
+   
+}
+.row{
+    padding-left: 10px;
+}
+.container{
+
+text-align: center;
+}
+.button{
+    font-size: large;
+    padding-top: 2rem;
+    
+}
+.slide{
+    width: 700px;
+    margin: 0 auto;
+    padding: 2rem;
+
+}
+.abcd{
+     background-color: #fafafa;
+}
+
+.specialdiscount{
+    padding: 2.8rem;
+}
+.booknow{
+    margin-bottom: 5rem;
+}
+.aboutus{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+
